@@ -1,6 +1,6 @@
 # Population Genomic Analysis 2026 (PGBI11126)
 
-GitHub repository of the [Population Genomic Analysis 2024 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/23-24/dpt/cxpgbi11126.htm) at the University of Edinburgh 
+GitHub repository of the [Population Genomic Analysis 2024 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/25-26/dpt/cxpgbi11126.htm) at the University of Edinburgh
 
 Contacts
 --------
@@ -26,7 +26,7 @@ Course admin
 ------------
 
 - PGA consists of a 10 computer practical sesssion (the last one being a class excercise that accounts for 75% of the mark) which analyse population genomic data.
-- **The first session will be on Tuesday 13/01/2025 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
+- **The first session will be on Tuesday 13/01/2026 @ 1400-1700 hrs in the [JCMB](https://goo.gl/maps/mYi8YMzKHiA1U9ceA) computer suite Room 1208 (follow the signs to Room 1206C, which is opposite of 1208).**
 - While PGA focuses on analysing population genomic data, this will also involve using the Python programming language, which will be introduced gradually throughout the course.
   - if you have not worked with Jupyter notebooks before, please watch [this short intro video](https://www.youtube.com/watch?v=A5YyoCKxEOU) ahead of the course
   - if you are a complete Python-novice, please read sections 1. - 4.3 of the [official Python documentation](https://docs.python.org/3.6/tutorial/)
