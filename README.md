@@ -76,16 +76,16 @@ Syllabus
   - understand the effect of positive selection on linked neutral variation
   - understand how `sweepfinder` works using simulation data
   - be able to perform a Selective sweep scan on real data
-- `Practical_7` (Dr Simon Martin)
+- `Practical_7`
+  - how to estimate differentiation between populations/species using 𝑑𝑥𝑦, 𝑑𝑛𝑒𝑡 and 𝐹𝑠𝑡 and understand how these summary statistics are defined and related to each other.
+  - be able to use coalescent theory to relate estimates of divergence and differentiation obtained from whole genome data to models of equilibrium population structure and non-equilibrium population history.
+  - be able to define outliers of differentiation in a genome scan.
+  - be able to simulate sequence data under models of population structure and compare these to real data.
+- `Practical_8` (Dr Simon Martin)
   - understand genealogical dicordance and how it depends on incomplete lineage sorting and gene flow
   - understand how the divergence history of populations affects the level of incomplete lineage sorting
   - be able to run multi-population coalescent simulations and extract genealogical information
   - learn how to detect introgression from archaic Hominins into modern humans using the D statsitic (aka the ABBA/BABA test)
-- `Practical_8`
-  - how to estimate differentiation between populations/species using 𝑑𝑥𝑦, 𝑑𝑛𝑒𝑡 and 𝐹𝑠𝑡 and understand how these summary statistics are defined and related to each other.
-  - be able to use coalescent theory to relate estimates of divergence and differentiation obtained from whole genome data to models of equilibrium population structure and non-equilibrium population history.
-  - be able to define outliers of differentiation in a genome scan.
-  - be able to simulate sequence data under models of population structure and compare these to real data. 
 - `Practical_9`
   - Revision session.
   - TBA
